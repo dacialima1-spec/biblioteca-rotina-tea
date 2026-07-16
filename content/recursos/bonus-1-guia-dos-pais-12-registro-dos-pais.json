@@ -1,0 +1,26 @@
+{
+  "id": "bonus-1-guia-dos-pais-12-registro-dos-pais",
+  "titulo": "Registro Dos Pais",
+  "subtitulo": null,
+  "categoria": [
+    "Guia dos Pais",
+    "Acompanhamento"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png"
+  }
+}

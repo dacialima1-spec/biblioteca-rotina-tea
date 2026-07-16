@@ -1,0 +1,25 @@
+{
+  "id": "bonus-5-calendario-visual-01-capa",
+  "titulo": "Calendário Visual",
+  "subtitulo": null,
+  "categoria": [
+    "Calendário Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-05-calendario-visual/01-capa.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+  "produtoOrigem": "Bônus 5 — Calendário Visual",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+    "categoria": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+    "produtoOrigem": "imagem-final:bonus-05-calendario-visual/01-capa.png"
+  }
+}

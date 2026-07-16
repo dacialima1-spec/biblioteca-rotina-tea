@@ -1,0 +1,25 @@
+{
+  "id": "bonus-1-guia-dos-pais-04-plano-5-dias",
+  "titulo": "Plano 5 Dias",
+  "subtitulo": null,
+  "categoria": [
+    "Guia dos Pais"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/04-plano-5-dias.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png"
+  }
+}

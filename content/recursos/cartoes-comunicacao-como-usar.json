@@ -1,0 +1,47 @@
+{
+  "id": "cartoes-comunicacao-como-usar",
+  "titulo": "Como Usar os Cartões",
+  "subtitulo": null,
+  "categoria": [
+    "Comunicação Visual"
+  ],
+  "tags": [
+    "cartões",
+    "comunicação",
+    "casa",
+    "escola",
+    "passeio",
+    "consulta"
+  ],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/02-como-usar.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+  "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+  "descricaoAprovada": "Comunicar é participar.",
+  "situacoesDeUso": [
+    "Casa",
+    "Escola",
+    "Passeio",
+    "Consulta"
+  ],
+  "instrucoesDeUso": [
+    "Mostre apenas os cartões necessários.",
+    "Deixe-os ao alcance da criança.",
+    "Modele: aponte e fale a palavra.",
+    "Responda sempre que a criança usar."
+  ],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": "Aceite apontar, tocar, entregar ou olhar para o cartão como tentativa de comunicação.",
+  "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "descricaoAprovada": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "situacoesDeUso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "instrucoesDeUso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "aviso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "categoria": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "tags": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+    "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png"
+  }
+}

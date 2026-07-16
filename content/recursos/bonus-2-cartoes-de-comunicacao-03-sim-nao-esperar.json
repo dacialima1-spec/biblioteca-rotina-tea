@@ -1,0 +1,25 @@
+{
+  "id": "bonus-2-cartoes-de-comunicacao-03-sim-nao-esperar",
+  "titulo": "Sim Nao Esperar",
+  "subtitulo": null,
+  "categoria": [
+    "Comunicação Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+  "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+    "categoria": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+    "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png"
+  }
+}

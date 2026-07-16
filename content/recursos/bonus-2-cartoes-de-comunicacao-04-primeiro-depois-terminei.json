@@ -1,0 +1,25 @@
+{
+  "id": "bonus-2-cartoes-de-comunicacao-04-primeiro-depois-terminei",
+  "titulo": "Primeiro Depois Terminei",
+  "subtitulo": null,
+  "categoria": [
+    "Comunicação Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+  "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+    "categoria": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+    "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png"
+  }
+}

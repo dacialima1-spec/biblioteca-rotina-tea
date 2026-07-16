@@ -1,0 +1,26 @@
+{
+  "id": "kit-planner-rotina-tea-19-quadro-de-escolhas",
+  "titulo": "Meu Quadro de Escolhas",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas",
+    "Comunicação Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/19-quadro-de-escolhas.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+    "categoria": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+    "produtoOrigem": "imagem-final:produto-principal/19-quadro-de-escolhas.png"
+  }
+}

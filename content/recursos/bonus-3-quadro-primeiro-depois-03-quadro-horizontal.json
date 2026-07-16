@@ -1,0 +1,25 @@
+{
+  "id": "bonus-3-quadro-primeiro-depois-03-quadro-horizontal",
+  "titulo": "Quadro Horizontal",
+  "subtitulo": null,
+  "categoria": [
+    "Primeiro e Depois"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-03-primeiro-depois/03-quadro-horizontal.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+  "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+    "categoria": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+    "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png"
+  }
+}

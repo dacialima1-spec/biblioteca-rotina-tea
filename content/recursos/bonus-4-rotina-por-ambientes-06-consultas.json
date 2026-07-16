@@ -1,0 +1,25 @@
+{
+  "id": "bonus-4-rotina-por-ambientes-06-consultas",
+  "titulo": "Consultas",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas por Ambiente"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/06-consultas.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+  "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+    "categoria": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+    "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png"
+  }
+}

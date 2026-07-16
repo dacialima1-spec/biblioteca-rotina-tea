@@ -1,0 +1,42 @@
+{
+  "id": "guia-pais-antes-de-comecar",
+  "titulo": "Antes de Começar",
+  "subtitulo": "O objetivo não é uma rotina perfeita. É tornar o dia mais previsível.",
+  "categoria": [
+    "Guia dos Pais",
+    "Rotinas"
+  ],
+  "tags": [
+    "rotina",
+    "previsível",
+    "imagens",
+    "repetição",
+    "autonomia"
+  ],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": "O objetivo não é uma rotina perfeita. É tornar o dia mais previsível.",
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [
+    "Comece pequeno — escolha apenas uma rotina.",
+    "Mostre o que vai acontecer — use imagens e poucas palavras.",
+    "Dê tempo para aprender — repetição cria segurança.",
+    "Celebre cada avanço — autonomia cresce passo a passo."
+  ],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": "Importante: adapte o material ao perfil, à idade e às necessidades da criança.",
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "subtitulo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "descricaoAprovada": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "instrucoesDeUso": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "aviso": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "tags": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png"
+  }
+}

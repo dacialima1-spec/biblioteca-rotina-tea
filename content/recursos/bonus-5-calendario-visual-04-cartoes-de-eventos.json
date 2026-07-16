@@ -1,0 +1,26 @@
+{
+  "id": "bonus-5-calendario-visual-04-cartoes-de-eventos",
+  "titulo": "Cartões De Eventos",
+  "subtitulo": null,
+  "categoria": [
+    "Calendário Visual",
+    "Comunicação Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+  "produtoOrigem": "Bônus 5 — Calendário Visual",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+    "categoria": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+    "produtoOrigem": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png"
+  }
+}

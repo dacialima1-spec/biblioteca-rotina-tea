@@ -1,0 +1,14 @@
+{
+  "projeto": "Biblioteca Rotina TEA",
+  "executadoEm": "2026-07-16",
+  "recursosValidados": 5,
+  "regras": [
+    "campos obrigatórios presentes",
+    "categorias dentro da lista aprovada",
+    "todo texto preenchido possui fonte por campo",
+    "campos clínicos e conclusões automáticas ausentes",
+    "arquivos visuais e imprimíveis existentes"
+  ],
+  "status": "aprovado tecnicamente",
+  "erros": []
+}

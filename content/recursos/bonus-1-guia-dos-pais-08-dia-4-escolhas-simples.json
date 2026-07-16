@@ -1,0 +1,26 @@
+{
+  "id": "bonus-1-guia-dos-pais-08-dia-4-escolhas-simples",
+  "titulo": "Dia 4 Escolhas Simples",
+  "subtitulo": null,
+  "categoria": [
+    "Guia dos Pais",
+    "Comunicação Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "calendario-visual-como-usar",
+  "titulo": "Como Usar o Calendário Visual",
+  "subtitulo": null,
+  "categoria": [
+    "Calendário Visual"
+  ],
+  "tags": [
+    "aniversários",
+    "médicos",
+    "passeios",
+    "feriados",
+    "viagens"
+  ],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-05-calendario-visual/02-como-usar.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+  "produtoOrigem": "Bônus 5 — Calendário Visual",
+  "descricaoAprovada": "Ver o tempo ajuda a compreender a espera.",
+  "situacoesDeUso": [
+    "Aniversários",
+    "Médicos",
+    "Passeios",
+    "Feriados",
+    "Viagens"
+  ],
+  "instrucoesDeUso": [
+    "Preencha o mês e as datas.",
+    "Escolha os cartões dos eventos.",
+    "Coloque cada cartão no dia correto.",
+    "Revise o calendário todos os dias."
+  ],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": "Risque ou marque os dias que já passaram.",
+  "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "descricaoAprovada": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "situacoesDeUso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "instrucoesDeUso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "aviso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "categoria": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "tags": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+    "produtoOrigem": "imagem-final:bonus-05-calendario-visual/02-como-usar.png"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "projeto": "Biblioteca Rotina TEA",
+  "versao": "1.0 — acervo completo",
+  "executadoEm": "2026-07-16",
+  "acervo": {
+    "recursos": 67,
+    "imagens": 67,
+    "pdfs": 7,
+    "recursosDetalhadosAprovados": 5,
+    "recursosComCamposAusentesPreservados": 62
+  },
+  "protecoes": {
+    "fontesObrigatorias": true,
+    "fallbackParaAusencias": "Informação não cadastrada.",
+    "conteudoClinicoAutomatico": false,
+    "conclusoesAutomaticasNoPdf": false
+  },
+  "validacaoTecnica": {
+    "eslint": "aprovado — 0 erros e 0 avisos",
+    "typescript": "aprovado — 0 erros",
+    "testesAutomatizados": "5 aprovados",
+    "buildDeProducao": "aprovado",
+    "paginasEAtivosTestados": 214,
+    "falhasNoSmokeTest": 0
+  },
+  "status": "aprovado tecnicamente"
+}

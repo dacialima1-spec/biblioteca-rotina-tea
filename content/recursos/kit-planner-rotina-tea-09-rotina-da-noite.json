@@ -1,0 +1,25 @@
+{
+  "id": "kit-planner-rotina-tea-09-rotina-da-noite",
+  "titulo": "Minha Rotina da Noite",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/09-rotina-da-noite.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/09-rotina-da-noite.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/09-rotina-da-noite.png",
+    "categoria": "imagem-final:produto-principal/09-rotina-da-noite.png",
+    "produtoOrigem": "imagem-final:produto-principal/09-rotina-da-noite.png"
+  }
+}

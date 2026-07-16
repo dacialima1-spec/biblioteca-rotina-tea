@@ -1,0 +1,26 @@
+{
+  "id": "kit-planner-rotina-tea-16-projetos-escolares",
+  "titulo": "Meus Projetos Escolares",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas",
+    "Escola"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/16-projetos-escolares.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/16-projetos-escolares.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/16-projetos-escolares.png",
+    "categoria": "imagem-final:produto-principal/16-projetos-escolares.png",
+    "produtoOrigem": "imagem-final:produto-principal/16-projetos-escolares.png"
+  }
+}

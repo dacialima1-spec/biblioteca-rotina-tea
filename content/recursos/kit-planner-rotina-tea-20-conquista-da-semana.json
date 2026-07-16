@@ -1,0 +1,26 @@
+{
+  "id": "kit-planner-rotina-tea-20-conquista-da-semana",
+  "titulo": "Minha Conquista da Semana",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas",
+    "Missões e Recompensas"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/20-conquista-da-semana.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/20-conquista-da-semana.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/20-conquista-da-semana.png",
+    "categoria": "imagem-final:produto-principal/20-conquista-da-semana.png",
+    "produtoOrigem": "imagem-final:produto-principal/20-conquista-da-semana.png"
+  }
+}

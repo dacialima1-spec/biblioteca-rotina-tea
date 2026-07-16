@@ -1,0 +1,2358 @@
+{
+  "projeto": "Biblioteca Rotina TEA",
+  "geradoEm": "2026-07-16",
+  "regra": "Inventário factual. Campos não comprovados permanecem vazios.",
+  "totais": {
+    "recursosVisuais": 67,
+    "arquivosPdf": 7
+  },
+  "recursos": [
+    {
+      "id": "bonus-01-caderno-emocoes--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Caderno das Emoções TEA",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Caderno das Emoções TEA"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--02-como-estou-me-sentindo-hoje",
+      "nomeArquivo": "02-como-estou-me-sentindo-hoje.png",
+      "tituloRecurso": "Como Estou Me Sentindo Hoje",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Como Estou Me Sentindo Hoje"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--03-roda-das-emocoes",
+      "nomeArquivo": "03-roda-das-emocoes.png",
+      "tituloRecurso": "Roda Das Emoções",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Roda Das Emoções"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/03-roda-das-emocoes.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/03-roda-das-emocoes.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--04-termometro-emocional",
+      "nomeArquivo": "04-termometro-emocional.png",
+      "tituloRecurso": "Termometro Emocional",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Termometro Emocional"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/04-termometro-emocional.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--05-onde-sinto-no-corpo",
+      "nomeArquivo": "05-onde-sinto-no-corpo.png",
+      "tituloRecurso": "Onde Sinto No Corpo",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Onde Sinto No Corpo"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--06-o-que-aconteceu",
+      "nomeArquivo": "06-o-que-aconteceu.png",
+      "tituloRecurso": "O Que Aconteceu",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "O Que Aconteceu"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/06-o-que-aconteceu.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/06-o-que-aconteceu.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--07-o-que-posso-fazer-agora",
+      "nomeArquivo": "07-o-que-posso-fazer-agora.png",
+      "tituloRecurso": "O Que Posso Fazer Agora",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "O Que Posso Fazer Agora"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--08-meu-plano-de-calma",
+      "nomeArquivo": "08-meu-plano-de-calma.png",
+      "tituloRecurso": "Meu Plano De Calma",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Meu Plano De Calma"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/08-meu-plano-de-calma.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/08-meu-plano-de-calma.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-caderno-emocoes--09-minha-caixa-de-recursos",
+      "nomeArquivo": "09-minha-caixa-de-recursos.png",
+      "tituloRecurso": "Minha Caixa De Recursos",
+      "produtoOuBonus": "Material adicional criado — Caderno das Emoções TEA",
+      "categorias": [
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Caixa De Recursos"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Guia dos Pais",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Guia dos Pais"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--02-antes-de-comecar",
+      "nomeArquivo": "02-antes-de-comecar.png",
+      "tituloRecurso": "Antes De Comecar",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Antes De Comecar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--03-prepare-o-material",
+      "nomeArquivo": "03-prepare-o-material.png",
+      "tituloRecurso": "Prepare O Material",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Prepare O Material"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/03-prepare-o-material.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/03-prepare-o-material.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--04-plano-5-dias",
+      "nomeArquivo": "04-plano-5-dias.png",
+      "tituloRecurso": "Plano 5 Dias",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Plano 5 Dias"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/04-plano-5-dias.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--05-dia-1-escolha-uma-rotina",
+      "nomeArquivo": "05-dia-1-escolha-uma-rotina.png",
+      "tituloRecurso": "Dia 1 Escolha Uma Rotina",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Dia 1 Escolha Uma Rotina"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--06-dia-2-apresente-os-cartoes",
+      "nomeArquivo": "06-dia-2-apresente-os-cartoes.png",
+      "tituloRecurso": "Dia 2 Apresente Os Cartões",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais",
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Dia 2 Apresente Os Cartões"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--07-dia-3-primeiro-e-depois",
+      "nomeArquivo": "07-dia-3-primeiro-e-depois.png",
+      "tituloRecurso": "Dia 3 Primeiro E Depois",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Dia 3 Primeiro E Depois"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--08-dia-4-escolhas-simples",
+      "nomeArquivo": "08-dia-4-escolhas-simples.png",
+      "tituloRecurso": "Dia 4 Escolhas Simples",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais",
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Dia 4 Escolhas Simples"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--09-dia-5-autonomia",
+      "nomeArquivo": "09-dia-5-autonomia.png",
+      "tituloRecurso": "Dia 5 Autonomia",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Dia 5 Autonomia"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--10-reforco-positivo",
+      "nomeArquivo": "10-reforco-positivo.png",
+      "tituloRecurso": "Reforço Positivo",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais",
+        "Missões e Recompensas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Reforço Positivo"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/10-reforco-positivo.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/10-reforco-positivo.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--11-quando-nao-funcionar",
+      "nomeArquivo": "11-quando-nao-funcionar.png",
+      "tituloRecurso": "Quando Nao Funcionar",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Quando Nao Funcionar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/11-quando-nao-funcionar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/11-quando-nao-funcionar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-01-guia-dos-pais--12-registro-dos-pais",
+      "nomeArquivo": "12-registro-dos-pais.png",
+      "tituloRecurso": "Registro Dos Pais",
+      "produtoOuBonus": "Bônus 1 — Guia dos Pais",
+      "categorias": [
+        "Guia dos Pais",
+        "Acompanhamento"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Registro Dos Pais"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-02-cartoes-comunicacao--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Cartões de Comunicação",
+      "produtoOuBonus": "Bônus 2 — Cartões de Comunicação",
+      "categorias": [
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Cartões de Comunicação"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-02-cartoes-comunicacao/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-02-cartoes-comunicacao--02-como-usar",
+      "nomeArquivo": "02-como-usar.png",
+      "tituloRecurso": "Como Usar",
+      "produtoOuBonus": "Bônus 2 — Cartões de Comunicação",
+      "categorias": [
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Como Usar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-02-cartoes-comunicacao/02-como-usar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-02-cartoes-comunicacao--03-sim-nao-esperar",
+      "nomeArquivo": "03-sim-nao-esperar.png",
+      "tituloRecurso": "Sim Nao Esperar",
+      "produtoOuBonus": "Bônus 2 — Cartões de Comunicação",
+      "categorias": [
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Sim Nao Esperar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-02-cartoes-comunicacao--04-primeiro-depois-terminei",
+      "nomeArquivo": "04-primeiro-depois-terminei.png",
+      "tituloRecurso": "Primeiro Depois Terminei",
+      "produtoOuBonus": "Bônus 2 — Cartões de Comunicação",
+      "categorias": [
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Primeiro Depois Terminei"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-02-cartoes-comunicacao--05-ajuda-mais-pausa",
+      "nomeArquivo": "05-ajuda-mais-pausa.png",
+      "tituloRecurso": "Ajuda Mais Pausa",
+      "produtoOuBonus": "Bônus 2 — Cartões de Comunicação",
+      "categorias": [
+        "Comunicação Visual",
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Ajuda Mais Pausa"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-03-primeiro-depois--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Quadro Primeiro → Depois",
+      "produtoOuBonus": "Bônus 3 — Quadro Primeiro → Depois",
+      "categorias": [
+        "Primeiro e Depois"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Quadro Primeiro → Depois"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-03-primeiro-depois--02-como-usar",
+      "nomeArquivo": "02-como-usar.png",
+      "tituloRecurso": "Como Usar",
+      "produtoOuBonus": "Bônus 3 — Quadro Primeiro → Depois",
+      "categorias": [
+        "Primeiro e Depois"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Como Usar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/02-como-usar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-03-primeiro-depois--03-quadro-horizontal",
+      "nomeArquivo": "03-quadro-horizontal.png",
+      "tituloRecurso": "Quadro Horizontal",
+      "produtoOuBonus": "Bônus 3 — Quadro Primeiro → Depois",
+      "categorias": [
+        "Primeiro e Depois"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Quadro Horizontal"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/03-quadro-horizontal.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-03-primeiro-depois--04-quadro-vertical",
+      "nomeArquivo": "04-quadro-vertical.png",
+      "tituloRecurso": "Quadro Vertical",
+      "produtoOuBonus": "Bônus 3 — Quadro Primeiro → Depois",
+      "categorias": [
+        "Primeiro e Depois"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Quadro Vertical"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/04-quadro-vertical.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/04-quadro-vertical.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-03-primeiro-depois--05-primeiro-depois-recompensa",
+      "nomeArquivo": "05-primeiro-depois-recompensa.png",
+      "tituloRecurso": "Primeiro Depois Recompensa",
+      "produtoOuBonus": "Bônus 3 — Quadro Primeiro → Depois",
+      "categorias": [
+        "Primeiro e Depois",
+        "Missões e Recompensas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Primeiro Depois Recompensa"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-03-primeiro-depois--06-primeiro-depois-terminei",
+      "nomeArquivo": "06-primeiro-depois-terminei.png",
+      "tituloRecurso": "Primeiro Depois Terminei",
+      "produtoOuBonus": "Bônus 3 — Quadro Primeiro → Depois",
+      "categorias": [
+        "Primeiro e Depois"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Primeiro Depois Terminei"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/06-primeiro-depois-terminei.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/06-primeiro-depois-terminei.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Rotina por Ambientes",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Rotina por Ambientes"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--02-como-usar",
+      "nomeArquivo": "02-como-usar.png",
+      "tituloRecurso": "Como Usar",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Como Usar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/02-como-usar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/02-como-usar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--03-casa",
+      "nomeArquivo": "03-casa.png",
+      "tituloRecurso": "Casa",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Casa"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/03-casa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/03-casa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--04-escola",
+      "nomeArquivo": "04-escola.png",
+      "tituloRecurso": "Escola",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Escola"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/04-escola.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--05-passeios",
+      "nomeArquivo": "05-passeios.png",
+      "tituloRecurso": "Passeios",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Passeios"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/05-passeios.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--06-consultas",
+      "nomeArquivo": "06-consultas.png",
+      "tituloRecurso": "Consultas",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Consultas"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/06-consultas.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-04-rotina-ambientes--07-viagens",
+      "nomeArquivo": "07-viagens.png",
+      "tituloRecurso": "Viagens",
+      "produtoOuBonus": "Bônus 4 — Rotina por Ambientes",
+      "categorias": [
+        "Rotinas por Ambiente"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Viagens"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/07-viagens.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-05-calendario-visual--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Calendário Visual",
+      "produtoOuBonus": "Bônus 5 — Calendário Visual",
+      "categorias": [
+        "Calendário Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Calendário Visual"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-05-calendario-visual--02-como-usar",
+      "nomeArquivo": "02-como-usar.png",
+      "tituloRecurso": "Como Usar",
+      "produtoOuBonus": "Bônus 5 — Calendário Visual",
+      "categorias": [
+        "Calendário Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Como Usar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/02-como-usar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-05-calendario-visual--03-calendario-mensal",
+      "nomeArquivo": "03-calendario-mensal.png",
+      "tituloRecurso": "Calendário Mensal",
+      "produtoOuBonus": "Bônus 5 — Calendário Visual",
+      "categorias": [
+        "Calendário Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Calendário Mensal"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/03-calendario-mensal.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/03-calendario-mensal.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-05-calendario-visual--04-cartoes-de-eventos",
+      "nomeArquivo": "04-cartoes-de-eventos.png",
+      "tituloRecurso": "Cartões De Eventos",
+      "produtoOuBonus": "Bônus 5 — Calendário Visual",
+      "categorias": [
+        "Calendário Visual",
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Cartões De Eventos"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-05-calendario-visual--05-contagem-regressiva",
+      "nomeArquivo": "05-contagem-regressiva.png",
+      "tituloRecurso": "Contagem Regressiva",
+      "produtoOuBonus": "Bônus 5 — Calendário Visual",
+      "categorias": [
+        "Calendário Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Contagem Regressiva"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/05-contagem-regressiva.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/05-contagem-regressiva.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "bonus-05-calendario-visual--06-hoje-amanha-depois",
+      "nomeArquivo": "06-hoje-amanha-depois.png",
+      "tituloRecurso": "Hoje Amanhã Depois",
+      "produtoOuBonus": "Bônus 5 — Calendário Visual",
+      "categorias": [
+        "Calendário Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Hoje Amanhã Depois"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--01-capa",
+      "nomeArquivo": "01-capa.png",
+      "tituloRecurso": "Kit Planner Rotina TEA",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Kit Planner Rotina TEA"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/01-capa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/01-capa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--02-identificacao",
+      "nomeArquivo": "02-identificacao.png",
+      "tituloRecurso": "Este Planner é Meu!",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Este Planner é Meu!"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/02-identificacao.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/02-identificacao.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--03-como-usar",
+      "nomeArquivo": "03-como-usar.png",
+      "tituloRecurso": "Como Usar o Kit",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Como Usar o Kit"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/03-como-usar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/03-como-usar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--04-meu-perfil",
+      "nomeArquivo": "04-meu-perfil.png",
+      "tituloRecurso": "Tudo Sobre Mim",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Tudo Sobre Mim"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/04-meu-perfil.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/04-meu-perfil.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--05-minha-rotina-semanal",
+      "nomeArquivo": "05-minha-rotina-semanal.png",
+      "tituloRecurso": "Minha Rotina Semanal",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Rotina Semanal"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/05-minha-rotina-semanal.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/05-minha-rotina-semanal.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--06-minha-rotina-de-hoje",
+      "nomeArquivo": "06-minha-rotina-de-hoje.png",
+      "tituloRecurso": "Minha Rotina de Hoje",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Rotina de Hoje"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/06-minha-rotina-de-hoje.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/06-minha-rotina-de-hoje.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--07-rotina-da-manha",
+      "nomeArquivo": "07-rotina-da-manha.png",
+      "tituloRecurso": "Minha Rotina da Manhã",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Rotina da Manhã"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/07-rotina-da-manha.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/07-rotina-da-manha.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--08-depois-da-escola",
+      "nomeArquivo": "08-depois-da-escola.png",
+      "tituloRecurso": "Depois da Escola",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Depois da Escola"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/08-depois-da-escola.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/08-depois-da-escola.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--09-rotina-da-noite",
+      "nomeArquivo": "09-rotina-da-noite.png",
+      "tituloRecurso": "Minha Rotina da Noite",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Rotina da Noite"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/09-rotina-da-noite.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/09-rotina-da-noite.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--10-rotina-escolar",
+      "nomeArquivo": "10-rotina-escolar.png",
+      "tituloRecurso": "Minha Rotina Escolar",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Rotina Escolar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/10-rotina-escolar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/10-rotina-escolar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--11-horario-escolar",
+      "nomeArquivo": "11-horario-escolar.png",
+      "tituloRecurso": "Meu Horário Escolar",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Meu Horário Escolar"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/11-horario-escolar.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/11-horario-escolar.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--12-minha-mochila",
+      "nomeArquivo": "12-minha-mochila.png",
+      "tituloRecurso": "Checklist da Mochila",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Checklist da Mochila"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/12-minha-mochila.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/12-minha-mochila.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--13-minhas-tarefas",
+      "nomeArquivo": "13-minhas-tarefas.png",
+      "tituloRecurso": "Minhas Tarefas",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minhas Tarefas"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/13-minhas-tarefas.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/13-minhas-tarefas.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--14-dever-de-casa",
+      "nomeArquivo": "14-dever-de-casa.png",
+      "tituloRecurso": "Meu Dever de Casa",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Meu Dever de Casa"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/14-dever-de-casa.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/14-dever-de-casa.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--15-planejamento-de-provas",
+      "nomeArquivo": "15-planejamento-de-provas.png",
+      "tituloRecurso": "Planejamento de Provas",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Planejamento de Provas"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/15-planejamento-de-provas.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/15-planejamento-de-provas.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--16-projetos-escolares",
+      "nomeArquivo": "16-projetos-escolares.png",
+      "tituloRecurso": "Meus Projetos Escolares",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Escola"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Meus Projetos Escolares"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/16-projetos-escolares.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/16-projetos-escolares.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--17-calendario-mensal",
+      "nomeArquivo": "17-calendario-mensal.png",
+      "tituloRecurso": "Meu Calendário Mensal",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Calendário Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Meu Calendário Mensal"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/17-calendario-mensal.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/17-calendario-mensal.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--18-mudanca-de-planos",
+      "nomeArquivo": "18-mudanca-de-planos.png",
+      "tituloRecurso": "Mudança de Planos",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Emoções e Autorregulação"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Mudança de Planos"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/18-mudanca-de-planos.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/18-mudanca-de-planos.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--19-quadro-de-escolhas",
+      "nomeArquivo": "19-quadro-de-escolhas.png",
+      "tituloRecurso": "Meu Quadro de Escolhas",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Comunicação Visual"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Meu Quadro de Escolhas"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/19-quadro-de-escolhas.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--20-conquista-da-semana",
+      "nomeArquivo": "20-conquista-da-semana.png",
+      "tituloRecurso": "Minha Conquista da Semana",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Missões e Recompensas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Minha Conquista da Semana"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/20-conquista-da-semana.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/20-conquista-da-semana.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--21-registro-de-progresso",
+      "nomeArquivo": "21-registro-de-progresso.png",
+      "tituloRecurso": "Registro de Progresso",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Acompanhamento"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Registro de Progresso"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/21-registro-de-progresso.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/21-registro-de-progresso.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    },
+    {
+      "id": "produto-principal--22-certificado-conquista-da-rotina",
+      "nomeArquivo": "22-certificado-conquista-da-rotina.png",
+      "tituloRecurso": "Conquista da Rotina",
+      "produtoOuBonus": "Kit Planner Rotina TEA",
+      "categorias": [
+        "Rotinas",
+        "Missões e Recompensas"
+      ],
+      "textoEncontradoNestaEtapa": [
+        "Conquista da Rotina"
+      ],
+      "imagemAssociada": "../../kit-planner-rotina-tea/finais/produto-principal/22-certificado-conquista-da-rotina.png",
+      "arquivoImpressaoAssociado": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "camposComConteudoAprovado": [
+        "id",
+        "titulo",
+        "categoria",
+        "arquivoVisual",
+        "arquivoImpressao",
+        "produtoOrigem",
+        "fonteDoConteudo"
+      ],
+      "camposSemConteudoAprovadoNestaEtapa": [
+        "faixaEtaria",
+        "descricaoAprovada",
+        "situacoesDeUso",
+        "instrucoesDeUso",
+        "camposParaObservar",
+        "informacoesParaCompartilhar",
+        "aviso"
+      ],
+      "fonteDoConteudo": "imagem-final:produto-principal/22-certificado-conquista-da-rotina.png",
+      "status": "inventariado — transcrição detalhada pendente de aprovação dos pilotos"
+    }
+  ],
+  "arquivosImpressao": [
+    {
+      "nomeArquivo": "Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Bonus-01-Caderno-das-Emocoes-TEA.pdf"
+    },
+    {
+      "nomeArquivo": "Bonus-01-Guia-dos-Pais.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Bonus-01-Guia-dos-Pais.pdf"
+    },
+    {
+      "nomeArquivo": "Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Bonus-02-Cartoes-de-Comunicacao.pdf"
+    },
+    {
+      "nomeArquivo": "Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Bonus-03-Quadro-Primeiro-Depois.pdf"
+    },
+    {
+      "nomeArquivo": "Bonus-04-Rotina-por-Ambientes.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Bonus-04-Rotina-por-Ambientes.pdf"
+    },
+    {
+      "nomeArquivo": "Bonus-05-Calendario-Visual.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Bonus-05-Calendario-Visual.pdf"
+    },
+    {
+      "nomeArquivo": "Kit-Planner-Rotina-TEA.pdf",
+      "caminho": "../../kit-planner-rotina-tea/output/pdf/Kit-Planner-Rotina-TEA.pdf",
+      "tipo": "PDF imprimível aprovado",
+      "fonte": "arquivo-final:Kit-Planner-Rotina-TEA.pdf"
+    }
+  ],
+  "estruturasLegadasNaoAprovadasComoFonte": [
+    "../../kit-planner-rotina-tea/content/*.json — coleções vazias ou pilotos anteriores divergentes das artes finais"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bonus-5-calendario-visual-06-hoje-amanha-depois",
+  "titulo": "Hoje Amanhã Depois",
+  "subtitulo": null,
+  "categoria": [
+    "Calendário Visual"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+  "produtoOrigem": "Bônus 5 — Calendário Visual",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+    "categoria": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+    "produtoOrigem": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png"
+  }
+}

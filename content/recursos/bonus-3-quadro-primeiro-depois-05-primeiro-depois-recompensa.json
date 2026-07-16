@@ -1,0 +1,26 @@
+{
+  "id": "bonus-3-quadro-primeiro-depois-05-primeiro-depois-recompensa",
+  "titulo": "Primeiro Depois Recompensa",
+  "subtitulo": null,
+  "categoria": [
+    "Primeiro e Depois",
+    "Missões e Recompensas"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+  "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+    "categoria": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+    "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png"
+  }
+}

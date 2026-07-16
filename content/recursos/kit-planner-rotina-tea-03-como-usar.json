@@ -1,0 +1,25 @@
+{
+  "id": "kit-planner-rotina-tea-03-como-usar",
+  "titulo": "Como Usar o Kit",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/03-como-usar.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/03-como-usar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/03-como-usar.png",
+    "categoria": "imagem-final:produto-principal/03-como-usar.png",
+    "produtoOrigem": "imagem-final:produto-principal/03-como-usar.png"
+  }
+}

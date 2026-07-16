@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://biblioteca-rotina-tea.local/schemas/recurso.schema.json",
+  "title": "Recurso da Biblioteca Rotina TEA",
+  "description": "Contrato de conteúdo factual. Ausência de fonte exige campo nulo ou lista vazia.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "titulo",
+    "subtitulo",
+    "categoria",
+    "tags",
+    "faixaEtaria",
+    "arquivoVisual",
+    "arquivoImpressao",
+    "produtoOrigem",
+    "descricaoAprovada",
+    "situacoesDeUso",
+    "instrucoesDeUso",
+    "camposParaObservar",
+    "informacoesParaCompartilhar",
+    "aviso",
+    "fonteDoConteudo",
+    "fontesPorCampo"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 1, "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "titulo": { "type": "string", "minLength": 1 },
+    "subtitulo": { "type": ["string", "null"] },
+    "categoria": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "Rotinas",
+          "Escola",
+          "Comunicação Visual",
+          "Emoções e Autorregulação",
+          "Missões e Recompensas",
+          "Primeiro e Depois",
+          "Rotinas por Ambiente",
+          "Calendário Visual",
+          "Guia dos Pais",
+          "Acompanhamento"
+        ]
+      }
+    },
+    "tags": { "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+    "faixaEtaria": { "type": ["string", "null"] },
+    "arquivoVisual": { "type": "string", "minLength": 1 },
+    "arquivoImpressao": { "type": "string", "minLength": 1 },
+    "produtoOrigem": { "type": "string", "minLength": 1 },
+    "descricaoAprovada": { "type": ["string", "null"] },
+    "situacoesDeUso": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "instrucoesDeUso": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "camposParaObservar": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "informacoesParaCompartilhar": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "aviso": { "type": ["string", "null"] },
+    "fonteDoConteudo": { "type": "string", "minLength": 1 },
+    "fontesPorCampo": {
+      "type": "object",
+      "additionalProperties": { "type": "string", "minLength": 1 }
+    }
+  }
+}

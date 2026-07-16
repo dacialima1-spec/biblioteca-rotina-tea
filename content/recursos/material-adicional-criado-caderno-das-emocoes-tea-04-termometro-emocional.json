@@ -1,0 +1,25 @@
+{
+  "id": "material-adicional-criado-caderno-das-emocoes-tea-04-termometro-emocional",
+  "titulo": "Termometro Emocional",
+  "subtitulo": null,
+  "categoria": [
+    "Emoções e Autorregulação"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/04-termometro-emocional.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+  "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+    "categoria": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+    "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png"
+  }
+}

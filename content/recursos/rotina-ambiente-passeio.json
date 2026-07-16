@@ -1,0 +1,44 @@
+{
+  "id": "rotina-ambiente-passeio",
+  "titulo": "Rotina de Passeio",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas por Ambiente",
+    "Rotinas"
+  ],
+  "tags": [
+    "passeio",
+    "responsável",
+    "pausa",
+    "voltar para casa"
+  ],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/05-passeios.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+  "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+  "descricaoAprovada": "Passear fica mais fácil quando eu sei a sequência.",
+  "situacoesDeUso": [
+    "Passeio"
+  ],
+  "instrucoesDeUso": [
+    "Preparar o que vou levar",
+    "Sair de casa",
+    "Chegar ao local",
+    "Ficar perto do responsável",
+    "Fazer uma pausa se precisar",
+    "Voltar para casa"
+  ],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+    "descricaoAprovada": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+    "situacoesDeUso": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+    "instrucoesDeUso": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+    "categoria": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+    "tags": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+    "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png"
+  }
+}

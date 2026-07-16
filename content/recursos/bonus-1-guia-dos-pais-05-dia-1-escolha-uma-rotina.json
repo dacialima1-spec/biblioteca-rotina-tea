@@ -1,0 +1,25 @@
+{
+  "id": "bonus-1-guia-dos-pais-05-dia-1-escolha-uma-rotina",
+  "titulo": "Dia 1 Escolha Uma Rotina",
+  "subtitulo": null,
+  "categoria": [
+    "Guia dos Pais"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kit-planner-rotina-tea-08-depois-da-escola",
+  "titulo": "Depois da Escola",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas",
+    "Escola"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/08-depois-da-escola.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/08-depois-da-escola.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/08-depois-da-escola.png",
+    "categoria": "imagem-final:produto-principal/08-depois-da-escola.png",
+    "produtoOrigem": "imagem-final:produto-principal/08-depois-da-escola.png"
+  }
+}

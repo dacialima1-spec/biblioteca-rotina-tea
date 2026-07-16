@@ -1,0 +1,26 @@
+{
+  "id": "bonus-4-rotina-por-ambientes-04-escola",
+  "titulo": "Escola",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas por Ambiente",
+    "Escola"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/04-escola.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+  "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+    "categoria": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+    "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/04-escola.png"
+  }
+}

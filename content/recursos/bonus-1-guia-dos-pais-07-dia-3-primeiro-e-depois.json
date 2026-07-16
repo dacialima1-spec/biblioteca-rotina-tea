@@ -1,0 +1,25 @@
+{
+  "id": "bonus-1-guia-dos-pais-07-dia-3-primeiro-e-depois",
+  "titulo": "Dia 3 Primeiro E Depois",
+  "subtitulo": null,
+  "categoria": [
+    "Guia dos Pais"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bonus-4-rotina-por-ambientes-07-viagens",
+  "titulo": "Viagens",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas por Ambiente"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/07-viagens.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+  "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+    "categoria": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+    "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png"
+  }
+}

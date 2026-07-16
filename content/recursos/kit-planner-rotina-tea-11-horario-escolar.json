@@ -1,0 +1,26 @@
+{
+  "id": "kit-planner-rotina-tea-11-horario-escolar",
+  "titulo": "Meu Horário Escolar",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas",
+    "Escola"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/11-horario-escolar.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/11-horario-escolar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/11-horario-escolar.png",
+    "categoria": "imagem-final:produto-principal/11-horario-escolar.png",
+    "produtoOrigem": "imagem-final:produto-principal/11-horario-escolar.png"
+  }
+}

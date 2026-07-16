@@ -1,0 +1,25 @@
+{
+  "id": "bonus-1-guia-dos-pais-09-dia-5-autonomia",
+  "titulo": "Dia 5 Autonomia",
+  "subtitulo": null,
+  "categoria": [
+    "Guia dos Pais"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+  "produtoOrigem": "Bônus 1 — Guia dos Pais",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+    "categoria": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+    "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png"
+  }
+}

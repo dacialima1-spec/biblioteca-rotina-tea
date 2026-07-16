@@ -1,0 +1,26 @@
+{
+  "id": "kit-planner-rotina-tea-14-dever-de-casa",
+  "titulo": "Meu Dever de Casa",
+  "subtitulo": null,
+  "categoria": [
+    "Rotinas",
+    "Escola"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/produto-principal/14-dever-de-casa.png",
+  "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+  "produtoOrigem": "Kit Planner Rotina TEA",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:produto-principal/14-dever-de-casa.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:produto-principal/14-dever-de-casa.png",
+    "categoria": "imagem-final:produto-principal/14-dever-de-casa.png",
+    "produtoOrigem": "imagem-final:produto-principal/14-dever-de-casa.png"
+  }
+}

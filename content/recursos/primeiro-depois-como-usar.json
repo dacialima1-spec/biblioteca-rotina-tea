@@ -1,0 +1,47 @@
+{
+  "id": "primeiro-depois-como-usar",
+  "titulo": "Como Usar Quadro Primeiro → Depois",
+  "subtitulo": null,
+  "categoria": [
+    "Primeiro e Depois"
+  ],
+  "tags": [
+    "primeiro",
+    "depois",
+    "tarefas",
+    "higiene",
+    "transições",
+    "pausas"
+  ],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-03-primeiro-depois/02-como-usar.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+  "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+  "descricaoAprovada": "Clareza reduz a incerteza.",
+  "situacoesDeUso": [
+    "Tarefas",
+    "Higiene",
+    "Transições",
+    "Pausas"
+  ],
+  "instrucoesDeUso": [
+    "Escolha uma atividade que precisa acontecer.",
+    "Escolha o que acontecerá em seguida.",
+    "Coloque um cartão em cada espaço.",
+    "Mostre, fale pouco e cumpra a sequência."
+  ],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": "O DEPOIS deve ser possível e acontecer logo após o PRIMEIRO.",
+  "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "descricaoAprovada": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "situacoesDeUso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "instrucoesDeUso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "aviso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "categoria": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "tags": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+    "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png"
+  }
+}

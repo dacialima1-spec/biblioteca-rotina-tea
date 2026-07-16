@@ -1,0 +1,1807 @@
+{
+  "projeto": "Biblioteca Rotina TEA",
+  "regra": "Acervo completo baseado no inventário aprovado. Campos não comprovados permanecem nulos ou vazios.",
+  "fallbackDeInterface": "Informação não cadastrada.",
+  "total": 67,
+  "recursos": [
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-01-capa",
+      "titulo": "Caderno das Emoções TEA",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/01-capa.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/01-capa.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/01-capa.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-02-como-estou-me-sentindo-hoje",
+      "titulo": "Como Estou Me Sentindo Hoje",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/02-como-estou-me-sentindo-hoje.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-03-roda-das-emocoes",
+      "titulo": "Roda Das Emoções",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/03-roda-das-emocoes.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/03-roda-das-emocoes.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/03-roda-das-emocoes.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/03-roda-das-emocoes.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/03-roda-das-emocoes.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-04-termometro-emocional",
+      "titulo": "Termometro Emocional",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/04-termometro-emocional.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/04-termometro-emocional.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-05-onde-sinto-no-corpo",
+      "titulo": "Onde Sinto No Corpo",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/05-onde-sinto-no-corpo.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-06-o-que-aconteceu",
+      "titulo": "O Que Aconteceu",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/06-o-que-aconteceu.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/06-o-que-aconteceu.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/06-o-que-aconteceu.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/06-o-que-aconteceu.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/06-o-que-aconteceu.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-07-o-que-posso-fazer-agora",
+      "titulo": "O Que Posso Fazer Agora",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/07-o-que-posso-fazer-agora.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-08-meu-plano-de-calma",
+      "titulo": "Meu Plano De Calma",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/08-meu-plano-de-calma.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/08-meu-plano-de-calma.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/08-meu-plano-de-calma.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/08-meu-plano-de-calma.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/08-meu-plano-de-calma.png"
+      }
+    },
+    {
+      "id": "material-adicional-criado-caderno-das-emocoes-tea-09-minha-caixa-de-recursos",
+      "titulo": "Minha Caixa De Recursos",
+      "subtitulo": null,
+      "categoria": [
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Caderno-das-Emocoes-TEA.pdf",
+      "produtoOrigem": "Material adicional criado — Caderno das Emoções TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png",
+        "categoria": "imagem-final:bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png",
+        "produtoOrigem": "imagem-final:bonus-01-caderno-emocoes/09-minha-caixa-de-recursos.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-01-capa",
+      "titulo": "Guia dos Pais",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/01-capa.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/01-capa.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/01-capa.png"
+      }
+    },
+    {
+      "id": "guia-pais-antes-de-comecar",
+      "titulo": "Antes de Começar",
+      "subtitulo": "O objetivo não é uma rotina perfeita. É tornar o dia mais previsível.",
+      "categoria": [
+        "Guia dos Pais",
+        "Rotinas"
+      ],
+      "tags": [
+        "rotina",
+        "previsível",
+        "imagens",
+        "repetição",
+        "autonomia"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": "O objetivo não é uma rotina perfeita. É tornar o dia mais previsível.",
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [
+        "Comece pequeno — escolha apenas uma rotina.",
+        "Mostre o que vai acontecer — use imagens e poucas palavras.",
+        "Dê tempo para aprender — repetição cria segurança.",
+        "Celebre cada avanço — autonomia cresce passo a passo."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "Importante: adapte o material ao perfil, à idade e às necessidades da criança.",
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "subtitulo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "descricaoAprovada": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "instrucoesDeUso": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "aviso": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "tags": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-03-prepare-o-material",
+      "titulo": "Prepare O Material",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/03-prepare-o-material.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/03-prepare-o-material.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/03-prepare-o-material.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/03-prepare-o-material.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/03-prepare-o-material.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-04-plano-5-dias",
+      "titulo": "Plano 5 Dias",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/04-plano-5-dias.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/04-plano-5-dias.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-05-dia-1-escolha-uma-rotina",
+      "titulo": "Dia 1 Escolha Uma Rotina",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/05-dia-1-escolha-uma-rotina.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-06-dia-2-apresente-os-cartoes",
+      "titulo": "Dia 2 Apresente Os Cartões",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais",
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/06-dia-2-apresente-os-cartoes.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-07-dia-3-primeiro-e-depois",
+      "titulo": "Dia 3 Primeiro E Depois",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/07-dia-3-primeiro-e-depois.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-08-dia-4-escolhas-simples",
+      "titulo": "Dia 4 Escolhas Simples",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais",
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/08-dia-4-escolhas-simples.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-09-dia-5-autonomia",
+      "titulo": "Dia 5 Autonomia",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/09-dia-5-autonomia.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-10-reforco-positivo",
+      "titulo": "Reforço Positivo",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais",
+        "Missões e Recompensas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/10-reforco-positivo.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/10-reforco-positivo.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/10-reforco-positivo.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/10-reforco-positivo.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/10-reforco-positivo.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-11-quando-nao-funcionar",
+      "titulo": "Quando Nao Funcionar",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/11-quando-nao-funcionar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/11-quando-nao-funcionar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/11-quando-nao-funcionar.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/11-quando-nao-funcionar.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/11-quando-nao-funcionar.png"
+      }
+    },
+    {
+      "id": "bonus-1-guia-dos-pais-12-registro-dos-pais",
+      "titulo": "Registro Dos Pais",
+      "subtitulo": null,
+      "categoria": [
+        "Guia dos Pais",
+        "Acompanhamento"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+        "categoria": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png",
+        "produtoOrigem": "imagem-final:bonus-01-guia-dos-pais/12-registro-dos-pais.png"
+      }
+    },
+    {
+      "id": "bonus-2-cartoes-de-comunicacao-01-capa",
+      "titulo": "Cartões de Comunicação",
+      "subtitulo": null,
+      "categoria": [
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-02-cartoes-comunicacao/01-capa.png",
+        "categoria": "imagem-final:bonus-02-cartoes-comunicacao/01-capa.png",
+        "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/01-capa.png"
+      }
+    },
+    {
+      "id": "cartoes-comunicacao-como-usar",
+      "titulo": "Como Usar os Cartões",
+      "subtitulo": null,
+      "categoria": [
+        "Comunicação Visual"
+      ],
+      "tags": [
+        "cartões",
+        "comunicação",
+        "casa",
+        "escola",
+        "passeio",
+        "consulta"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/02-como-usar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+      "descricaoAprovada": "Comunicar é participar.",
+      "situacoesDeUso": [
+        "Casa",
+        "Escola",
+        "Passeio",
+        "Consulta"
+      ],
+      "instrucoesDeUso": [
+        "Mostre apenas os cartões necessários.",
+        "Deixe-os ao alcance da criança.",
+        "Modele: aponte e fale a palavra.",
+        "Responda sempre que a criança usar."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "Aceite apontar, tocar, entregar ou olhar para o cartão como tentativa de comunicação.",
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "descricaoAprovada": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "situacoesDeUso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "instrucoesDeUso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "aviso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "categoria": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "tags": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png"
+      }
+    },
+    {
+      "id": "bonus-2-cartoes-de-comunicacao-03-sim-nao-esperar",
+      "titulo": "Sim Nao Esperar",
+      "subtitulo": null,
+      "categoria": [
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+        "categoria": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png",
+        "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/03-sim-nao-esperar.png"
+      }
+    },
+    {
+      "id": "bonus-2-cartoes-de-comunicacao-04-primeiro-depois-terminei",
+      "titulo": "Primeiro Depois Terminei",
+      "subtitulo": null,
+      "categoria": [
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+        "categoria": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png",
+        "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/04-primeiro-depois-terminei.png"
+      }
+    },
+    {
+      "id": "bonus-2-cartoes-de-comunicacao-05-ajuda-mais-pausa",
+      "titulo": "Ajuda Mais Pausa",
+      "subtitulo": null,
+      "categoria": [
+        "Comunicação Visual",
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+        "categoria": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+        "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png"
+      }
+    },
+    {
+      "id": "bonus-3-quadro-primeiro-depois-01-capa",
+      "titulo": "Quadro Primeiro → Depois",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-03-primeiro-depois/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/01-capa.png",
+        "categoria": "imagem-final:bonus-03-primeiro-depois/01-capa.png",
+        "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/01-capa.png"
+      }
+    },
+    {
+      "id": "primeiro-depois-como-usar",
+      "titulo": "Como Usar Quadro Primeiro → Depois",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois"
+      ],
+      "tags": [
+        "primeiro",
+        "depois",
+        "tarefas",
+        "higiene",
+        "transições",
+        "pausas"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-03-primeiro-depois/02-como-usar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": "Clareza reduz a incerteza.",
+      "situacoesDeUso": [
+        "Tarefas",
+        "Higiene",
+        "Transições",
+        "Pausas"
+      ],
+      "instrucoesDeUso": [
+        "Escolha uma atividade que precisa acontecer.",
+        "Escolha o que acontecerá em seguida.",
+        "Coloque um cartão em cada espaço.",
+        "Mostre, fale pouco e cumpra a sequência."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "O DEPOIS deve ser possível e acontecer logo após o PRIMEIRO.",
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "descricaoAprovada": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "situacoesDeUso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "instrucoesDeUso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "aviso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "categoria": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "tags": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png"
+      }
+    },
+    {
+      "id": "bonus-3-quadro-primeiro-depois-03-quadro-horizontal",
+      "titulo": "Quadro Horizontal",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-03-primeiro-depois/03-quadro-horizontal.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+        "categoria": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png",
+        "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/03-quadro-horizontal.png"
+      }
+    },
+    {
+      "id": "bonus-3-quadro-primeiro-depois-04-quadro-vertical",
+      "titulo": "Quadro Vertical",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-03-primeiro-depois/04-quadro-vertical.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/04-quadro-vertical.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/04-quadro-vertical.png",
+        "categoria": "imagem-final:bonus-03-primeiro-depois/04-quadro-vertical.png",
+        "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/04-quadro-vertical.png"
+      }
+    },
+    {
+      "id": "bonus-3-quadro-primeiro-depois-05-primeiro-depois-recompensa",
+      "titulo": "Primeiro Depois Recompensa",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois",
+        "Missões e Recompensas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+        "categoria": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png",
+        "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/05-primeiro-depois-recompensa.png"
+      }
+    },
+    {
+      "id": "bonus-3-quadro-primeiro-depois-06-primeiro-depois-terminei",
+      "titulo": "Primeiro Depois Terminei",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-03-primeiro-depois/06-primeiro-depois-terminei.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/06-primeiro-depois-terminei.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/06-primeiro-depois-terminei.png",
+        "categoria": "imagem-final:bonus-03-primeiro-depois/06-primeiro-depois-terminei.png",
+        "produtoOrigem": "imagem-final:bonus-03-primeiro-depois/06-primeiro-depois-terminei.png"
+      }
+    },
+    {
+      "id": "bonus-4-rotina-por-ambientes-01-capa",
+      "titulo": "Rotina por Ambientes",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/01-capa.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/01-capa.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/01-capa.png"
+      }
+    },
+    {
+      "id": "bonus-4-rotina-por-ambientes-02-como-usar",
+      "titulo": "Como Usar",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/02-como-usar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/02-como-usar.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/02-como-usar.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/02-como-usar.png"
+      }
+    },
+    {
+      "id": "bonus-4-rotina-por-ambientes-03-casa",
+      "titulo": "Casa",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/03-casa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/03-casa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/03-casa.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/03-casa.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/03-casa.png"
+      }
+    },
+    {
+      "id": "bonus-4-rotina-por-ambientes-04-escola",
+      "titulo": "Escola",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/04-escola.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/04-escola.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/04-escola.png"
+      }
+    },
+    {
+      "id": "rotina-ambiente-passeio",
+      "titulo": "Rotina de Passeio",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente",
+        "Rotinas"
+      ],
+      "tags": [
+        "passeio",
+        "responsável",
+        "pausa",
+        "voltar para casa"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/05-passeios.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": "Passear fica mais fácil quando eu sei a sequência.",
+      "situacoesDeUso": [
+        "Passeio"
+      ],
+      "instrucoesDeUso": [
+        "Preparar o que vou levar",
+        "Sair de casa",
+        "Chegar ao local",
+        "Ficar perto do responsável",
+        "Fazer uma pausa se precisar",
+        "Voltar para casa"
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "descricaoAprovada": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "situacoesDeUso": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "instrucoesDeUso": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "tags": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png"
+      }
+    },
+    {
+      "id": "bonus-4-rotina-por-ambientes-06-consultas",
+      "titulo": "Consultas",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/06-consultas.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/06-consultas.png"
+      }
+    },
+    {
+      "id": "bonus-4-rotina-por-ambientes-07-viagens",
+      "titulo": "Viagens",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-04-rotina-ambientes/07-viagens.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+        "categoria": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png",
+        "produtoOrigem": "imagem-final:bonus-04-rotina-ambientes/07-viagens.png"
+      }
+    },
+    {
+      "id": "bonus-5-calendario-visual-01-capa",
+      "titulo": "Calendário Visual",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-05-calendario-visual/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+        "categoria": "imagem-final:bonus-05-calendario-visual/01-capa.png",
+        "produtoOrigem": "imagem-final:bonus-05-calendario-visual/01-capa.png"
+      }
+    },
+    {
+      "id": "calendario-visual-como-usar",
+      "titulo": "Como Usar o Calendário Visual",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual"
+      ],
+      "tags": [
+        "aniversários",
+        "médicos",
+        "passeios",
+        "feriados",
+        "viagens"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-05-calendario-visual/02-como-usar.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": "Ver o tempo ajuda a compreender a espera.",
+      "situacoesDeUso": [
+        "Aniversários",
+        "Médicos",
+        "Passeios",
+        "Feriados",
+        "Viagens"
+      ],
+      "instrucoesDeUso": [
+        "Preencha o mês e as datas.",
+        "Escolha os cartões dos eventos.",
+        "Coloque cada cartão no dia correto.",
+        "Revise o calendário todos os dias."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "Risque ou marque os dias que já passaram.",
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "descricaoAprovada": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "situacoesDeUso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "instrucoesDeUso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "aviso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "categoria": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "tags": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "produtoOrigem": "imagem-final:bonus-05-calendario-visual/02-como-usar.png"
+      }
+    },
+    {
+      "id": "bonus-5-calendario-visual-03-calendario-mensal",
+      "titulo": "Calendário Mensal",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-05-calendario-visual/03-calendario-mensal.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/03-calendario-mensal.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/03-calendario-mensal.png",
+        "categoria": "imagem-final:bonus-05-calendario-visual/03-calendario-mensal.png",
+        "produtoOrigem": "imagem-final:bonus-05-calendario-visual/03-calendario-mensal.png"
+      }
+    },
+    {
+      "id": "bonus-5-calendario-visual-04-cartoes-de-eventos",
+      "titulo": "Cartões De Eventos",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual",
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+        "categoria": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png",
+        "produtoOrigem": "imagem-final:bonus-05-calendario-visual/04-cartoes-de-eventos.png"
+      }
+    },
+    {
+      "id": "bonus-5-calendario-visual-05-contagem-regressiva",
+      "titulo": "Contagem Regressiva",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-05-calendario-visual/05-contagem-regressiva.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/05-contagem-regressiva.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/05-contagem-regressiva.png",
+        "categoria": "imagem-final:bonus-05-calendario-visual/05-contagem-regressiva.png",
+        "produtoOrigem": "imagem-final:bonus-05-calendario-visual/05-contagem-regressiva.png"
+      }
+    },
+    {
+      "id": "bonus-5-calendario-visual-06-hoje-amanha-depois",
+      "titulo": "Hoje Amanhã Depois",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+      "arquivoImpressao": "/imprimiveis/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+        "categoria": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png",
+        "produtoOrigem": "imagem-final:bonus-05-calendario-visual/06-hoje-amanha-depois.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-01-capa",
+      "titulo": "Kit Planner Rotina TEA",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/01-capa.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/01-capa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/01-capa.png",
+        "categoria": "imagem-final:produto-principal/01-capa.png",
+        "produtoOrigem": "imagem-final:produto-principal/01-capa.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-02-identificacao",
+      "titulo": "Este Planner é Meu!",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/02-identificacao.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/02-identificacao.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/02-identificacao.png",
+        "categoria": "imagem-final:produto-principal/02-identificacao.png",
+        "produtoOrigem": "imagem-final:produto-principal/02-identificacao.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-03-como-usar",
+      "titulo": "Como Usar o Kit",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/03-como-usar.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/03-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/03-como-usar.png",
+        "categoria": "imagem-final:produto-principal/03-como-usar.png",
+        "produtoOrigem": "imagem-final:produto-principal/03-como-usar.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-04-meu-perfil",
+      "titulo": "Tudo Sobre Mim",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/04-meu-perfil.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/04-meu-perfil.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/04-meu-perfil.png",
+        "categoria": "imagem-final:produto-principal/04-meu-perfil.png",
+        "produtoOrigem": "imagem-final:produto-principal/04-meu-perfil.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-05-minha-rotina-semanal",
+      "titulo": "Minha Rotina Semanal",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/05-minha-rotina-semanal.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/05-minha-rotina-semanal.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/05-minha-rotina-semanal.png",
+        "categoria": "imagem-final:produto-principal/05-minha-rotina-semanal.png",
+        "produtoOrigem": "imagem-final:produto-principal/05-minha-rotina-semanal.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-06-minha-rotina-de-hoje",
+      "titulo": "Minha Rotina de Hoje",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/06-minha-rotina-de-hoje.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/06-minha-rotina-de-hoje.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/06-minha-rotina-de-hoje.png",
+        "categoria": "imagem-final:produto-principal/06-minha-rotina-de-hoje.png",
+        "produtoOrigem": "imagem-final:produto-principal/06-minha-rotina-de-hoje.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-07-rotina-da-manha",
+      "titulo": "Minha Rotina da Manhã",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/07-rotina-da-manha.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/07-rotina-da-manha.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/07-rotina-da-manha.png",
+        "categoria": "imagem-final:produto-principal/07-rotina-da-manha.png",
+        "produtoOrigem": "imagem-final:produto-principal/07-rotina-da-manha.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-08-depois-da-escola",
+      "titulo": "Depois da Escola",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/08-depois-da-escola.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/08-depois-da-escola.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/08-depois-da-escola.png",
+        "categoria": "imagem-final:produto-principal/08-depois-da-escola.png",
+        "produtoOrigem": "imagem-final:produto-principal/08-depois-da-escola.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-09-rotina-da-noite",
+      "titulo": "Minha Rotina da Noite",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/09-rotina-da-noite.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/09-rotina-da-noite.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/09-rotina-da-noite.png",
+        "categoria": "imagem-final:produto-principal/09-rotina-da-noite.png",
+        "produtoOrigem": "imagem-final:produto-principal/09-rotina-da-noite.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-10-rotina-escolar",
+      "titulo": "Minha Rotina Escolar",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/10-rotina-escolar.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/10-rotina-escolar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/10-rotina-escolar.png",
+        "categoria": "imagem-final:produto-principal/10-rotina-escolar.png",
+        "produtoOrigem": "imagem-final:produto-principal/10-rotina-escolar.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-11-horario-escolar",
+      "titulo": "Meu Horário Escolar",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/11-horario-escolar.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/11-horario-escolar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/11-horario-escolar.png",
+        "categoria": "imagem-final:produto-principal/11-horario-escolar.png",
+        "produtoOrigem": "imagem-final:produto-principal/11-horario-escolar.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-12-minha-mochila",
+      "titulo": "Checklist da Mochila",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/12-minha-mochila.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/12-minha-mochila.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/12-minha-mochila.png",
+        "categoria": "imagem-final:produto-principal/12-minha-mochila.png",
+        "produtoOrigem": "imagem-final:produto-principal/12-minha-mochila.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-13-minhas-tarefas",
+      "titulo": "Minhas Tarefas",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/13-minhas-tarefas.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/13-minhas-tarefas.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/13-minhas-tarefas.png",
+        "categoria": "imagem-final:produto-principal/13-minhas-tarefas.png",
+        "produtoOrigem": "imagem-final:produto-principal/13-minhas-tarefas.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-14-dever-de-casa",
+      "titulo": "Meu Dever de Casa",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/14-dever-de-casa.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/14-dever-de-casa.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/14-dever-de-casa.png",
+        "categoria": "imagem-final:produto-principal/14-dever-de-casa.png",
+        "produtoOrigem": "imagem-final:produto-principal/14-dever-de-casa.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-15-planejamento-de-provas",
+      "titulo": "Planejamento de Provas",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/15-planejamento-de-provas.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/15-planejamento-de-provas.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/15-planejamento-de-provas.png",
+        "categoria": "imagem-final:produto-principal/15-planejamento-de-provas.png",
+        "produtoOrigem": "imagem-final:produto-principal/15-planejamento-de-provas.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-16-projetos-escolares",
+      "titulo": "Meus Projetos Escolares",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Escola"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/16-projetos-escolares.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/16-projetos-escolares.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/16-projetos-escolares.png",
+        "categoria": "imagem-final:produto-principal/16-projetos-escolares.png",
+        "produtoOrigem": "imagem-final:produto-principal/16-projetos-escolares.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-17-calendario-mensal",
+      "titulo": "Meu Calendário Mensal",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Calendário Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/17-calendario-mensal.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/17-calendario-mensal.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/17-calendario-mensal.png",
+        "categoria": "imagem-final:produto-principal/17-calendario-mensal.png",
+        "produtoOrigem": "imagem-final:produto-principal/17-calendario-mensal.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-18-mudanca-de-planos",
+      "titulo": "Mudança de Planos",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Emoções e Autorregulação"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/18-mudanca-de-planos.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/18-mudanca-de-planos.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/18-mudanca-de-planos.png",
+        "categoria": "imagem-final:produto-principal/18-mudanca-de-planos.png",
+        "produtoOrigem": "imagem-final:produto-principal/18-mudanca-de-planos.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-19-quadro-de-escolhas",
+      "titulo": "Meu Quadro de Escolhas",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Comunicação Visual"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/19-quadro-de-escolhas.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+        "categoria": "imagem-final:produto-principal/19-quadro-de-escolhas.png",
+        "produtoOrigem": "imagem-final:produto-principal/19-quadro-de-escolhas.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-20-conquista-da-semana",
+      "titulo": "Minha Conquista da Semana",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Missões e Recompensas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/20-conquista-da-semana.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/20-conquista-da-semana.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/20-conquista-da-semana.png",
+        "categoria": "imagem-final:produto-principal/20-conquista-da-semana.png",
+        "produtoOrigem": "imagem-final:produto-principal/20-conquista-da-semana.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-21-registro-de-progresso",
+      "titulo": "Registro de Progresso",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Acompanhamento"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/21-registro-de-progresso.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/21-registro-de-progresso.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/21-registro-de-progresso.png",
+        "categoria": "imagem-final:produto-principal/21-registro-de-progresso.png",
+        "produtoOrigem": "imagem-final:produto-principal/21-registro-de-progresso.png"
+      }
+    },
+    {
+      "id": "kit-planner-rotina-tea-22-certificado-conquista-da-rotina",
+      "titulo": "Conquista da Rotina",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas",
+        "Missões e Recompensas"
+      ],
+      "tags": [],
+      "faixaEtaria": null,
+      "arquivoVisual": "/recursos/produto-principal/22-certificado-conquista-da-rotina.png",
+      "arquivoImpressao": "/imprimiveis/Kit-Planner-Rotina-TEA.pdf",
+      "produtoOrigem": "Kit Planner Rotina TEA",
+      "descricaoAprovada": null,
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:produto-principal/22-certificado-conquista-da-rotina.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:produto-principal/22-certificado-conquista-da-rotina.png",
+        "categoria": "imagem-final:produto-principal/22-certificado-conquista-da-rotina.png",
+        "produtoOrigem": "imagem-final:produto-principal/22-certificado-conquista-da-rotina.png"
+      }
+    }
+  ]
+}

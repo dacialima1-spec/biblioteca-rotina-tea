@@ -1,0 +1,219 @@
+{
+  "projeto": "Biblioteca Rotina TEA",
+  "regra": "Somente cinco recursos piloto. Textos copiados das artes finais; campos não comprovados permanecem nulos ou vazios.",
+  "fallbackDeInterface": "Informação não cadastrada.",
+  "recursos": [
+    {
+      "id": "guia-pais-antes-de-comecar",
+      "titulo": "Antes de Começar",
+      "subtitulo": "O objetivo não é uma rotina perfeita. É tornar o dia mais previsível.",
+      "categoria": [
+        "Guia dos Pais",
+        "Rotinas"
+      ],
+      "tags": [
+        "rotina",
+        "previsível",
+        "imagens",
+        "repetição",
+        "autonomia"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "../../kit-planner-rotina-tea/finais/bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+      "arquivoImpressao": "../../kit-planner-rotina-tea/output/pdf/Bonus-01-Guia-dos-Pais.pdf",
+      "produtoOrigem": "Bônus 1 — Guia dos Pais",
+      "descricaoAprovada": "O objetivo não é uma rotina perfeita. É tornar o dia mais previsível.",
+      "situacoesDeUso": [],
+      "instrucoesDeUso": [
+        "Comece pequeno — escolha apenas uma rotina.",
+        "Mostre o que vai acontecer — use imagens e poucas palavras.",
+        "Dê tempo para aprender — repetição cria segurança.",
+        "Celebre cada avanço — autonomia cresce passo a passo."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "Importante: adapte o material ao perfil, à idade e às necessidades da criança.",
+      "fonteDoConteudo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "subtitulo": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "descricaoAprovada": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "instrucoesDeUso": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png",
+        "aviso": "imagem-final:bonus-01-guia-dos-pais/02-antes-de-comecar.png"
+      }
+    },
+    {
+      "id": "cartoes-comunicacao-como-usar",
+      "titulo": "Como Usar os Cartões",
+      "subtitulo": null,
+      "categoria": [
+        "Comunicação Visual"
+      ],
+      "tags": [
+        "cartões",
+        "comunicação",
+        "casa",
+        "escola",
+        "passeio",
+        "consulta"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "../../kit-planner-rotina-tea/finais/bonus-02-cartoes-comunicacao/02-como-usar.png",
+      "arquivoImpressao": "../../kit-planner-rotina-tea/output/pdf/Bonus-02-Cartoes-de-Comunicacao.pdf",
+      "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+      "descricaoAprovada": "Comunicar é participar.",
+      "situacoesDeUso": [
+        "Casa",
+        "Escola",
+        "Passeio",
+        "Consulta"
+      ],
+      "instrucoesDeUso": [
+        "Mostre apenas os cartões necessários.",
+        "Deixe-os ao alcance da criança.",
+        "Modele: aponte e fale a palavra.",
+        "Responda sempre que a criança usar."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "Aceite apontar, tocar, entregar ou olhar para o cartão como tentativa de comunicação.",
+      "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "descricaoAprovada": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "situacoesDeUso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "instrucoesDeUso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png",
+        "aviso": "imagem-final:bonus-02-cartoes-comunicacao/02-como-usar.png"
+      }
+    },
+    {
+      "id": "primeiro-depois-como-usar",
+      "titulo": "Como Usar Quadro Primeiro → Depois",
+      "subtitulo": null,
+      "categoria": [
+        "Primeiro e Depois"
+      ],
+      "tags": [
+        "primeiro",
+        "depois",
+        "tarefas",
+        "higiene",
+        "transições",
+        "pausas"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "../../kit-planner-rotina-tea/finais/bonus-03-primeiro-depois/02-como-usar.png",
+      "arquivoImpressao": "../../kit-planner-rotina-tea/output/pdf/Bonus-03-Quadro-Primeiro-Depois.pdf",
+      "produtoOrigem": "Bônus 3 — Quadro Primeiro → Depois",
+      "descricaoAprovada": "Clareza reduz a incerteza.",
+      "situacoesDeUso": [
+        "Tarefas",
+        "Higiene",
+        "Transições",
+        "Pausas"
+      ],
+      "instrucoesDeUso": [
+        "Escolha uma atividade que precisa acontecer.",
+        "Escolha o que acontecerá em seguida.",
+        "Coloque um cartão em cada espaço.",
+        "Mostre, fale pouco e cumpra a sequência."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "O DEPOIS deve ser possível e acontecer logo após o PRIMEIRO.",
+      "fonteDoConteudo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "descricaoAprovada": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "situacoesDeUso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "instrucoesDeUso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png",
+        "aviso": "imagem-final:bonus-03-primeiro-depois/02-como-usar.png"
+      }
+    },
+    {
+      "id": "rotina-ambiente-passeio",
+      "titulo": "Rotina de Passeio",
+      "subtitulo": null,
+      "categoria": [
+        "Rotinas por Ambiente",
+        "Rotinas"
+      ],
+      "tags": [
+        "passeio",
+        "responsável",
+        "pausa",
+        "voltar para casa"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "../../kit-planner-rotina-tea/finais/bonus-04-rotina-ambientes/05-passeios.png",
+      "arquivoImpressao": "../../kit-planner-rotina-tea/output/pdf/Bonus-04-Rotina-por-Ambientes.pdf",
+      "produtoOrigem": "Bônus 4 — Rotina por Ambientes",
+      "descricaoAprovada": "Passear fica mais fácil quando eu sei a sequência.",
+      "situacoesDeUso": [
+        "Passeio"
+      ],
+      "instrucoesDeUso": [
+        "Preparar o que vou levar",
+        "Sair de casa",
+        "Chegar ao local",
+        "Ficar perto do responsável",
+        "Fazer uma pausa se precisar",
+        "Voltar para casa"
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": null,
+      "fonteDoConteudo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "descricaoAprovada": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "situacoesDeUso": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png",
+        "instrucoesDeUso": "imagem-final:bonus-04-rotina-ambientes/05-passeios.png"
+      }
+    },
+    {
+      "id": "calendario-visual-como-usar",
+      "titulo": "Como Usar o Calendário Visual",
+      "subtitulo": null,
+      "categoria": [
+        "Calendário Visual"
+      ],
+      "tags": [
+        "aniversários",
+        "médicos",
+        "passeios",
+        "feriados",
+        "viagens"
+      ],
+      "faixaEtaria": null,
+      "arquivoVisual": "../../kit-planner-rotina-tea/finais/bonus-05-calendario-visual/02-como-usar.png",
+      "arquivoImpressao": "../../kit-planner-rotina-tea/output/pdf/Bonus-05-Calendario-Visual.pdf",
+      "produtoOrigem": "Bônus 5 — Calendário Visual",
+      "descricaoAprovada": "Ver o tempo ajuda a compreender a espera.",
+      "situacoesDeUso": [
+        "Aniversários",
+        "Médicos",
+        "Passeios",
+        "Feriados",
+        "Viagens"
+      ],
+      "instrucoesDeUso": [
+        "Preencha o mês e as datas.",
+        "Escolha os cartões dos eventos.",
+        "Coloque cada cartão no dia correto.",
+        "Revise o calendário todos os dias."
+      ],
+      "camposParaObservar": [],
+      "informacoesParaCompartilhar": [],
+      "aviso": "Risque ou marque os dias que já passaram.",
+      "fonteDoConteudo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+      "fontesPorCampo": {
+        "titulo": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "descricaoAprovada": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "situacoesDeUso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "instrucoesDeUso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png",
+        "aviso": "imagem-final:bonus-05-calendario-visual/02-como-usar.png"
+      }
+    }
+  ]
+}

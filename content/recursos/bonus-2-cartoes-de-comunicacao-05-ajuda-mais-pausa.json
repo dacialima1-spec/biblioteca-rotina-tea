@@ -1,0 +1,26 @@
+{
+  "id": "bonus-2-cartoes-de-comunicacao-05-ajuda-mais-pausa",
+  "titulo": "Ajuda Mais Pausa",
+  "subtitulo": null,
+  "categoria": [
+    "Comunicação Visual",
+    "Emoções e Autorregulação"
+  ],
+  "tags": [],
+  "faixaEtaria": null,
+  "arquivoVisual": "/recursos/bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+  "arquivoImpressao": "/imprimiveis/Bonus-02-Cartoes-de-Comunicacao.pdf",
+  "produtoOrigem": "Bônus 2 — Cartões de Comunicação",
+  "descricaoAprovada": null,
+  "situacoesDeUso": [],
+  "instrucoesDeUso": [],
+  "camposParaObservar": [],
+  "informacoesParaCompartilhar": [],
+  "aviso": null,
+  "fonteDoConteudo": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+  "fontesPorCampo": {
+    "titulo": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+    "categoria": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png",
+    "produtoOrigem": "imagem-final:bonus-02-cartoes-comunicacao/05-ajuda-mais-pausa.png"
+  }
+}
