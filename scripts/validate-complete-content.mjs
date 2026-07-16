@@ -4,6 +4,7 @@ import path from "node:path";
 const root = path.resolve(".");
 const contentRoot = path.join(root, "content");
 const sourceRoot = path.resolve("../kit-planner-rotina-tea/finais");
+const sourceRootAvailable = await access(sourceRoot).then(() => true).catch(() => false);
 const payload = JSON.parse(await readFile(path.join(contentRoot, "recursos-completos.json"), "utf8"));
 const schema = JSON.parse(await readFile(path.join(contentRoot, "recurso.schema.json"), "utf8"));
 
@@ -40,10 +41,10 @@ for (const resource of payload.recursos) {
   }
   const sourceRelative = resource.fonteDoConteudo.replace(/^imagem-final:/, "");
   const files = [
-    ["fonte", path.join(sourceRoot, sourceRelative)],
     ["imagem pública", path.join(root, "public", resource.arquivoVisual.replace(/^\//, ""))],
     ["PDF público", path.join(root, "public", resource.arquivoImpressao.replace(/^\//, ""))]
   ];
+  if (sourceRootAvailable) files.push(["fonte", path.join(sourceRoot, sourceRelative)]);
   for (const [label, file] of files) {
     try { await access(file); } catch { errors.push(`${resource.id}: ${label} não encontrado: ${file}`); }
   }
@@ -58,7 +59,8 @@ const report = {
   imagensValidadas: payload.recursos.length,
   pdfsAssociadosValidados: new Set(payload.recursos.map((item) => item.arquivoImpressao)).size,
   status: errors.length ? "reprovado" : "aprovado tecnicamente",
-  erros: errors
+  erros: errors,
+  avisos: sourceRootAvailable ? [] : [`pasta de fontes não encontrada (${sourceRoot}); verificação de fonte original ignorada`]
 };
 
 await mkdir(path.join(root, "output"), { recursive: true });
